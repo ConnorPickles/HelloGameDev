@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# to be backed up locally until it becomes necessary to backup in the cloud
+Content
